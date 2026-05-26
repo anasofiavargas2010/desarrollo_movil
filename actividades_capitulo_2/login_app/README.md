@@ -2,13 +2,13 @@
 
 Aplicación móvil con sistema de login y registro de usuarios.
 
-## 🖼️ Capturas de Pantalla
+## Capturas de Pantalla
 
 | Login | Registro | Home |
 |-------|----------|------|
 | ![Login](evidencias/inicio.png) | ![Registro](evidencias/registro%20(2).png) | ![Home](evidencias/principal.png) |
 
-## ✅ Funcionalidades Comprobadas
+## Funcionalidades Comprobadas
 
 - [x] Pantalla de Login
 - [x] Pantalla de Registro  
@@ -18,8 +18,3 @@ Aplicación móvil con sistema de login y registro de usuarios.
 - [x] Navegación entre pantallas
 - [x] Cierre de sesión
 
-## ▶️ Cómo ejecutar
-
-```bash
-flutter pub get
-flutter run
