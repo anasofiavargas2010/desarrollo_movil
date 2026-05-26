@@ -2,6 +2,11 @@
 
 Aplicación móvil con sistema de login y registro de usuarios.
 
+**Nombre del estudiante:** Ana Sofia Vargas Gaviria<br>
+**Curso:** Lenguajes de programación para móviles <br>
+**Fecha:** 26 de mayo de 2026<br>
+
+
 ## Capturas de Pantalla
 
 | Login | Registro | Home |
